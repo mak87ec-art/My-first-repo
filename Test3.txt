@@ -1,0 +1,3 @@
+what is shell scripting and how to write it
+give some new idea
+
